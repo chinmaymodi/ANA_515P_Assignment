@@ -17,9 +17,11 @@ The original excel file contained two sheets, which were imported as 2 data fram
 
 I have also included the [modified data frame](Exported%20Data%20Frames/Modified%20Data%20Frames/survey_data_with_assumptions.csv), as well as an edited version of the modified data frame that contains only the [comment data](Exported%20Data%20Frames/Modified%20Data%20Frames/entries_with_comments.csv) This is not used in the project, but it's just another step to be taken in real-world projects if comment analysis is something to be done.
 
+These are uploaded in [this commit](../../commit/8847b19e5e280195c92566d5335f6e0f504e9463).
+
 Visuals:
 
-I have included 7 plots generated on multiple variables, based on 1, 2 and 3 variables from the data. They are [here](images).
+I have included 7 plots generated on multiple variables in [this commit](../../commit/feaaa1e157d83e824bf786c4d0a398357eb76391), based on 1, 2 and 3 variables from the data. They are [here](images).
 
 ![](images/Plot%201%20-%20Gender%20Distribution%20Data%20to%20show%20impact%20of%20cleaning.png) This image indicates the impact cleaning data can have on data analytics. The other images are all on the cleaned data and are intended to draw different results.
 
