@@ -19,7 +19,11 @@ I have also included the [modified data frame](Exported%20Data%20Frames/Modified
 
 Visuals:
 
-I have included 7 plots generated on multiple variables, based on 1, 2 and 3 variables from the data. They are [here](images)
+I have included 7 plots generated on multiple variables, based on 1, 2 and 3 variables from the data. They are [here](images).
+
+![](images/Plot%201%20-%20Gender%20Distribution%20Data%20to%20show%20impact%20of%20cleaning.png) This image indicates the impact cleaning data can have on data analytics. The other images are all on the cleaned data and are intended to draw different results.
+
+Plots [6](images/Plot%206%20-%20Impact%20of%20Wellness%20Program%20Availability%20on%20Proportion%20of%20Help%20Seekers.png) and [7](images/Plot%207%20-%20Ease%20of%20taking%20leave%20versus%20Help%20Seeking%20Behavior.png) are the most difficult ones and point us towards us the biggest conclusions to be drawn from this data: the presence of wellness programs, as well as making leave-taking easier, have a positive impact on the trend of employees seeking help.
 
 Comments:
 
@@ -28,4 +32,4 @@ I have commented at each step of the code to show what I am doing, and why I am 
 Repository Status:
 
 This is a public repository containing all the relevant files for the project.
-I have also included my [R code](Code.R) as well as the [original excel file](survey.xlsx)
+I have also included my [R code](Code.R) as well as the [original excel file](survey.xlsx).
