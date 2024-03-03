@@ -1,6 +1,6 @@
 # README
 
-ANA_515P_Assignment:
+ANA_515P_Assignment: Project 3, Mental Health in Tech.
 
 Upload Repository for the Data Preparation Assignment of ANA 515P, 2024GSP_ANA_515P_01 Exp Practicum Fundamentals
 
